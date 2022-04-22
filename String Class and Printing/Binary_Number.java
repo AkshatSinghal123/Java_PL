@@ -18,7 +18,7 @@ public class SCString
     public static void main(String[] args) 
     {
         
-        String str="a!B@c#1$2%3";
+        String str="a!B@c#1$2%4";
         
         str=str.replaceAll("[^a-zA-Z0-9]", "");
                 
